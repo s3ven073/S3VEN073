@@ -41,7 +41,3 @@ Olá! Sou acadêmico de Engenharia Química na UNIFESSPA e um entusiasta do dese
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3ven073&show_icons=true&theme=highcontrast)
