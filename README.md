@@ -1,3 +1,5 @@
+# 🧑🏾‍💻 Rodrigo Salasar
+
 **`Chemical Engineer & Developer`**
 
 Hello! I am a Chemical Engineering student at UNIFESSPA and a software development enthusiast. My journey is driven by technical curiosity and the desire to build solutions that are both efficient and inclusive. Currently, I focus my energies on the intersection between Engineering and Technology, exploring the potential of Artificial Intelligence and Full-Stack development (Python, HTML, CSS, and JavaScript). I believe that code is a powerful tool for solving complex problems—whether simulating transport phenomena or creating interfaces that promote accessibility in the university environment.
