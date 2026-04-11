@@ -1,6 +1,6 @@
-**`Eng. Químico e Desenvolvedor`**
+**`Chemical Engineer & Developer`**
 
-Olá! Sou acadêmico de Engenharia Química na UNIFESSPA e um entusiasta do desenvolvimento de software. Minha trajetória é movida pela curiosidade técnica e pelo desejo de construir soluções que sejam, ao mesmo tempo, eficientes e inclusivas. Atualmente, foco minhas energias na intersecção entre a Engenharia e a Tecnologia, explorando o potencial da Inteligência Artificial e do desenvolvimento Full-Stack (Python, HTML, CSS e JavaScript). Acredito que o código é uma ferramenta poderosa para resolver problemas complexos — seja simulando fenômenos de transporte ou criando interfaces que promovem a acessibilidade no ambiente universitário.
+Hello! I am a Chemical Engineering student at UNIFESSPA and a software development enthusiast. My journey is driven by technical curiosity and the desire to build solutions that are both efficient and inclusive. Currently, I focus my energies on the intersection between Engineering and Technology, exploring the potential of Artificial Intelligence and Full-Stack development (Python, HTML, CSS, and JavaScript). I believe that code is a powerful tool for solving complex problems—whether simulating transport phenomena or creating interfaces that promote accessibility in the university environment.
 
 ---
 
